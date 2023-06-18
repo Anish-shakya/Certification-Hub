@@ -1,5 +1,5 @@
 # Certification-Hub
-"Certification Hub" is a GitHub repository where I showcase my certifications in different skills, with a focus on SQL and Google Data Analytics courses. Here's a description of the repository:
+"Certification Hub" is a GitHub repository where I showcase my certifications in different skills, with a focus on SQL and Google Data Analytics courses. Here's a description of the repository.
 
 Welcome to "Certification Hub," a repository dedicated to showcasing my certifications and expertise in SQL and Google Data Analytics. This repository serves as a testament to my commitment to continuous learning and professional growth in these areas.
 
