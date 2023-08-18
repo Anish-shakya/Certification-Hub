@@ -8,3 +8,6 @@ Key Features:
 SQL Certifications: Explore my collection of certifications in SQL, demonstrating my proficiency in database management, querying, and data manipulation using SQL languages such as MySQL, PostgreSQL, or Oracle.
 
 Google Data Analytics: Discover my achievements in the Google Data Analytics certification program, including courses covering data analysis, data visualization, data cleaning, and data-driven decision-making using Google tools and platforms.
+
+### SQL for Data Analytics (Datacamp)
+Ongoing....
